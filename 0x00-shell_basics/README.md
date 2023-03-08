@@ -4,3 +4,4 @@ cd command changes working directory
 ls -l for long list format
 ls -la for long list format with hidden files
 ls -la -n for long list format with user and group ID
+mkdir for creating directory
